@@ -15,7 +15,7 @@ By inspecting this file I learned that:
 
 1. The file size is 6.1M.
 2. There are 2783 lines, 2744038 words and 11051939 bytes.
-3. There are 986 columns.
+3. There are 986 columns in this file.
 
 ###Attributes of `snp_position.txt`
 
@@ -30,7 +30,7 @@ By inspecting this file I learned that:
 
 1. The file size is 38K.
 2. There are 984 lines, 13198 words and 82763 bytes.
-3. There are 15 columns.
+3. There are 15 columns in this file.
 
 ##Data Processing
 
