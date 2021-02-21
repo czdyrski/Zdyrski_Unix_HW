@@ -11,15 +11,9 @@ here is my snippet of code used for data inspection
 
 By inspecting this file I learned that:
 
-1. point 1
-2. point 2
-3. point 3
-
-or
-
-* point 1
-* point 2
-* point 3
+1. The file size is
+2. There are ____ rows
+3. There are ___ columns
 
 ###Attributes of `snp_position.txt`
 
@@ -32,12 +26,6 @@ By inspecting this file I learned that:
 1. point 1
 2. point 2
 3. point 3
-
-or
-
-* point 1
-* point 2
-* point 3
 
 ##Data Processing
 
