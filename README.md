@@ -45,6 +45,7 @@ First transpose the genotype file to swap the rows and columns
 Then, sort both files
 Join the files
 Awk out all teh 40 files
+Then use setd to change ? to something
 
 ###Teosinte Data
 
