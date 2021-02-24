@@ -37,11 +37,14 @@ By inspecting this file I learned that:
 ###Maize Data
 
 ```
-here is my snippet of code used for data processing
+awk -f transpose.awk fang_et_al_genotypes.txt > transposed_genotypes.txt
+
 ```
 
-Here is my brief description of what this code does
-
+First transpose the genotype file to swap the rows and columns
+Then, sort both files
+Join the files
+Awk out all teh 40 files
 
 ###Teosinte Data
 
